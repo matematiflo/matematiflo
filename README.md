@@ -2,7 +2,7 @@
 
 - 🤓 My name is Florent Schaffhauser. 
 - 🔭 I am a mathematician working in complex and real algebraic geometry.
-- 🌱 I'm currently learning functional programming.
+- 🌱 I am currently learning functional programming.
 - 👯 I am looking to collaborate on moduli spaces of Higgs bundles and homotopy type theory.
 - 🤔 I'm looking for help with any of the above.
 - 💬 Ask me about the Atiyah-Bott paper or the HoTT book.
